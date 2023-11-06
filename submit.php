@@ -1,7 +1,7 @@
 <?php
 $servername = "my-db.c43qxldti8jw.us-east-1.rds.amazonaws.com";
 $username = "admin";
-$password = "12345678";
+$password = "admin123";
 $dbname = "application_form";
 
 
